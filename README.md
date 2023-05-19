@@ -1,5 +1,3 @@
-Sure! Here's a README file for the provided code:
-
 # COVID-19 Data Scraper and Analysis
 
 This Python script scrapes data from the Worldometer website (https://www.worldometers.info/coronavirus/) to retrieve COVID-19 statistics for individual countries. The script uses the requests library to send an HTTP GET request to the website, and then uses BeautifulSoup library to parse the HTML response and extract the required data.
